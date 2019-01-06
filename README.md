@@ -11,3 +11,5 @@ Notes:
 - Used Redux, but I do think Mobx would have been better suited
 
 - Did not used React context, as it didn't justified the extra code in this case
+
+- As the CSS code is tiny, I did not bother with any css optimization
